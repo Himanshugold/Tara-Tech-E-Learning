@@ -1,0 +1,291 @@
+/* Header Section CSS Start */
+html
+{
+    scroll-behavior:smooth;
+}
+
+
+header
+{
+		background:#ffafb8;
+}
+header ul
+{
+		margin:0px;
+		padding:0px;
+}
+header li
+{
+	display:inline-block;
+	padding:4px 2px;
+	line-height:50px;
+}
+header a
+{
+		color:white;
+		font-size:22px;
+		text-decoration:none;
+		font-family:century-gothic;
+		position:relative;
+		left:4px;
+		top:5px;
+	
+}
+.btn1
+{
+		background:black;
+		color:white;
+		height:30px;
+		position:relative;
+		top:2px;
+		left:4px;
+		padding:5px;
+}
+.input
+{
+		position:relative;
+		
+		left:10px;
+		height:32px;
+		width:200px;
+		padding:5px;
+		margin-right:-8px;
+		border-radius:6px;
+		
+}
+span 
+{
+    
+	position:relative;
+   
+		
+}
+.banner-section
+{
+		
+	background:url('../images/bg.jpg');
+	height:500px;
+	background-size:cover;
+	
+}
+
+/* about section css start */
+.about h1
+{
+	font-family:Century Gothic;
+	text-align:center;
+	padding-top:20px;
+}
+.about p
+{
+	font-size:30px;
+	text-align:justify;
+	line-height:50px;
+	font-family:Gabriola;
+	color:#94225d;
+
+}
+
+/* Learning Plateform CSS */
+.learning-plateform h1
+{
+	font-family:Century Gothic;
+	text-align:center;
+	padding-top:20px;
+}
+
+.learning-plateform div
+{
+		text-align:center;
+		width:28%;
+		display:inline-block;
+		margin:6px;
+		padding:10px;
+		
+			
+}
+.learning-plateform img
+{
+	width:100%;
+	height:52%;
+}
+.learning-plateform p
+{
+		font-family:calibri;
+		text-align:justify;
+		font-size:20px;
+}
+/* technologies Section CSS Start */
+
+.row div
+{
+width:22%;
+display:inline-block;
+text-align:center;
+padding:5px;
+
+}
+.row img
+{
+	width:70%;
+	height:32%;
+}
+.technology h1
+{
+	text-align:center;
+	font-family:calibri;
+	padding-top:20px;
+
+}
+
+/* Services Section CSS Start */
+.service-section h1
+{
+	font-family:calibri;
+	text-align:center;
+	padding-top:25px;
+}
+.service-section div
+{
+	 width:18%;
+     display:inline-block;
+	 margin:5px;
+	 padding:20px;
+	 background:#ffafb8;
+	 
+}
+.service-section div p
+{
+	font-family:Century Gothic;
+}
+.social a
+{
+	font-size:40px;
+	color:black;
+}
+
+.service-section div:hover
+{
+	background:white;
+}
+
+/* Contact Section CSS Start */
+
+#cont1
+{
+	font-family:calibri;
+	text-align:center;
+	padding-top:25px;
+}
+
+.contact-section 
+{
+    
+	width:100%;
+	display:flex;
+	
+}
+
+.cont1
+{
+     margin:5px;
+	 text-align:center;	
+	 border:5px solid black;
+     background:black;  
+	 color:white;
+	 font-size:25px;
+	 font-family:calibri;
+	 margin-top:0px;
+	 width:60%;
+}
+.cont2
+{
+     margin:5px;
+	 text-align:center;	
+	 border:5px solid black;
+     background:black;  
+	 color:white;
+	 font-size:25px;
+	 font-family:calibri;
+	 margin-top:0px;
+	 width: 40%;
+}
+
+.cont2 img
+{
+	height:230px;
+	width:60%;
+}
+
+.cont1 input
+{
+		
+		height:40px;
+		width:450px;
+	   margin:2px;
+	   padding-top:12px;
+}
+#sub
+{
+		background:#ffafb8;
+		
+}
+/* Footer Section CSS Start */
+
+.footer-section
+{
+		background:black;
+		color:white;
+				
+}
+
+.footer-section div
+{
+	width:32%;
+	display:inline-block;
+}
+
+.footer-section p
+{
+    font-size:25px;	
+	font-family:monotype corsiva;
+	color:#ffafb8;
+}
+.footer-section h1,h2, h3
+{
+	font-family:calibri;
+}	
+
+#foot
+{
+	padding-left:20px;
+}
+
+.social ul li
+{
+	display:inline-block;
+	padding:8px;
+	text-align:center;
+}
+
+.plateform ul li 
+{
+    padding:2px;
+	font-size:20px;
+}
+.support ul li 
+{
+    padding:2px;
+	font-size:20px;
+}
+
+
+.footer-section ul li a
+{
+	font-size:25px;
+	color:white;
+}
+
+
+
+
